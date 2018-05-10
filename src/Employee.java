@@ -5,7 +5,8 @@ public class Employee {
 	 int eid=102;
 		System.out.println("eid:+value");
 		System.out.println("eid");
-		
+		System.out.println("eeiidd");
+		System.out.println();
 	}
 
 }
